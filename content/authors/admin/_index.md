@@ -148,4 +148,4 @@ awards:
 
 # About me
 
-I am a senior undergraduate majoring in Mathematics and Scientific Computing at the Indian Institute of Technology, Kanpur. My research interests lie in statistics, and I am currently exploring various fields of statistics methodology. I worked on exact Markov Chain Monte Carlo sampling using Bernoulli factories with Prof.[Dootika Vats ](https://dvats.github.io/). Prior to that I worked at the [Decision lab](https://sites.google.com/view/decisionlabiitk/home?authuser=0) on modelling behavioural data to analyze the effect of stress on dynamic decision making. 
+I am a senior undergraduate majoring in Mathematics and Scientific Computing at the Indian Institute of Technology, Kanpur. My research interests lie in statistics, and I am currently exploring various fields of statistics methodology. I worked on exact Markov Chain Monte Carlo sampling using Bernoulli factories with Prof. [Dootika Vats ](https://dvats.github.io/). Prior to that I worked at the [Decision lab](https://sites.google.com/view/decisionlabiitk/home?authuser=0) on modelling behavioural data to analyze the effect of stress on dynamic decision making. 
