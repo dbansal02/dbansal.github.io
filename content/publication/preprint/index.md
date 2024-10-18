@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Exact MCMC for intractable proposals"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -17,15 +17,15 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Accept-reject based Markov chain Monte Carlo (MCMC) methods are the workhorse algorithm for Bayesian inference. These algorithms, like Metropolis-Hastings, require the choice of a proposal distribution which is typically informed by the desired target distribution. Surprisingly, proposal distributions with unknown normalizing constants are not uncommon, even though for such a choice of a proposal, the Metropolis-Hastings acceptance ratio cannot be evaluated exactly. Across the literature, authors resort to approximation methods that yield inexact MCMC or develop specialized algorithms to combat this problem. We show how Bernoulli factory MCMC algorithms, originally proposed for doubly intractable target distributions, can quite naturally be adapted to this situation. We present three diverse and relevant examples demonstrating the usefulness of the Bernoulli factory approach to this problem.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - ''
 
-featured: true
+featured: false
 
 links:
 # - name: ''
@@ -62,10 +62,10 @@ url_code: 'https://github.com/dwija04/BernoulliFactoryProposals'
 # slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+<!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs. -->
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
