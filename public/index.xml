@@ -37,6 +37,38 @@
     </item>
     
     <item>
+      <title>Effect of acute stress on dynamic decision making</title>
+      <link>http://localhost:1313/project/eeg/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/eeg/</guid>
+      <description>&lt;p&gt;Modelling stress and valence ratings in players in a Penalty Shot game.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multiple Try Metropolis with Bernoulli factories</title>
+      <link>http://localhost:1313/project/mtm/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/mtm/</guid>
+      <description>&lt;p&gt;Multiple Try Metropolis MCMC using Bernoulli factories for intractable posteriors.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portfolio Optimization and Risk Analysis</title>
+      <link>http://localhost:1313/project/portfolio/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/portfolio/</guid>
+      <description>&lt;p&gt;Portfolio optimization using the Markowitz efficient frontier and CPPI, and a risk module calculating VaR and CVaR.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
       <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -275,7 +307,7 @@
 
 
 
-&lt;div id=&#34;chart-823769415&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-493728516&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -293,7 +325,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-823769415&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-493728516&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -957,38 +989,6 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/div&gt; --&gt;
 &lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Effect of acute stress on dynamic decision making</title>
-      <link>http://localhost:1313/project/eeg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/eeg/</guid>
-      <description>&lt;p&gt;Modelling stress and valence ratings in players in a Penalty Shot game.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Multiple Try Metropolis with Bernoulli factories</title>
-      <link>http://localhost:1313/project/mtm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/mtm/</guid>
-      <description>&lt;p&gt;Multiple Try Metropolis MCMC using Bernoulli factories for intractable posteriors.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portfolio Optimization and Risk Analysis</title>
-      <link>http://localhost:1313/project/portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/portfolio/</guid>
-      <description>&lt;p&gt;Portfolio optimization using the Markowitz efficient frontier and CPPI, and a risk module calculating VaR and CVaR.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description></description>
     </item>
     
   </channel>

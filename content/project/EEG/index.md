@@ -1,6 +1,6 @@
 ---
 title: Effect of acute stress on dynamic decision making
-date: ''
+date: 2024-10-18
 external_link: https://drive.google.com/file/d/1-jCpH-6C-u0b4K3xXPpeyZ8Zxzhn6z5x/view?usp=sharing
 tags: ''
 ---
