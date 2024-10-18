@@ -7,23 +7,15 @@
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu11592851331957776021.png</url>
       <title>Projects</title>
       <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
-      <title>Portfolio Optimization and Risk Analysis</title>
-      <link>http://localhost:1313/project/portfolio/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/portfolio/</guid>
-      <description>&lt;p&gt;Portfolio optimization using the Markowitz efficient frontier and CPPI, and a risk module calculating VaR and CVaR.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Effect of acute stress on dynamic decision making</title>
       <link>http://localhost:1313/project/eeg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/eeg/</guid>
       <description>&lt;p&gt;Modelling stress and valence ratings in players in a Penalty Shot game.&lt;/p&gt;</description>
     </item>
@@ -31,9 +23,17 @@
     <item>
       <title>Multiple Try Metropolis with Bernoulli factories</title>
       <link>http://localhost:1313/project/mtm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/mtm/</guid>
       <description>&lt;p&gt;Multiple Try Metropolis MCMC using Bernoulli factories for intractable posteriors.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portfolio Optimization and Risk Analysis</title>
+      <link>http://localhost:1313/project/portfolio/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/portfolio/</guid>
+      <description>&lt;p&gt;Portfolio optimization using the Markowitz efficient frontier and CPPI, and a risk module calculating VaR and CVaR.&lt;/p&gt;</description>
     </item>
     
   </channel>
