@@ -1,10 +1,9 @@
 ---
-title: Portfolio Optimization and Risk Analysis
-date: 2024-10-18
-external_link: https://github.com/dwija04/Portfolio-Optimization-Risk-Analysis
+title: Design And Development Of Swashplateless Micro Helicopter.
+date: 2023-06-18
+external_link: https://drive.google.com/drive/folders/1kIvEEX0vgcJ5MA2vna6-5YJB3OQZEYmh
 tags: ''
 ---
 
-Portfolio optimization using the Markowitz efficient frontier and CPPI, and a risk module calculating VaR and CVaR.
 
 <!--more-->

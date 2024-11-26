@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Article | Dwija Kakkad</title>
+    <title>Article | Divyanshi Bansal</title>
     <link>http://localhost:1313/publication_types/article/</link>
       <atom:link href="http://localhost:1313/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu11592851331957776021.png</url>
       <title>Article</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Exact MCMC for intractable proposals</title>
+      <title>Design and Development of Swashplateless Micro Helicopter with Pitch‑Lag Coupling</title>
       <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/preprint/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs. --&gt;
 &lt;!-- 

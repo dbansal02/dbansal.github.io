@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dwija Kakkad</title>
+    <title>Divyanshi Bansal</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Dwija Kakkad</description>
+    <description>Divyanshi Bansal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu11592851331957776021.png</url>
-      <title>Dwija Kakkad</title>
+      <title>Divyanshi Bansal</title>
       <link>http://localhost:1313/</link>
     </image>
     
@@ -37,30 +37,6 @@
     </item>
     
     <item>
-      <title>Effect of acute stress on dynamic decision making</title>
-      <link>http://localhost:1313/project/eeg/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/eeg/</guid>
-      <description>&lt;p&gt;Modelling stress and valence ratings in players in a Penalty Shot game.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Multiple Try Metropolis with Bernoulli factories</title>
-      <link>http://localhost:1313/project/mtm/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/mtm/</guid>
-      <description>&lt;p&gt;Multiple Try Metropolis MCMC using Bernoulli factories for intractable posteriors.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portfolio Optimization and Risk Analysis</title>
-      <link>http://localhost:1313/project/portfolio/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/portfolio/</guid>
-      <description>&lt;p&gt;Portfolio optimization using the Markowitz efficient frontier and CPPI, and a risk module calculating VaR and CVaR.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
@@ -69,9 +45,25 @@
     </item>
     
     <item>
-      <title>Exact MCMC for intractable proposals</title>
+      <title>Non‑overshooting PID Controller Design For Attitude Control of Spacecraf</title>
+      <link>http://localhost:1313/project/project4/</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/project4/</guid>
+      <description>&lt;p&gt;Course Group Project&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Suction/Blowing Control System To Impose Complex Pressure Gradients In A Wind Tunnel</title>
+      <link>http://localhost:1313/project/mtm/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/mtm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Development of Swashplateless Micro Helicopter with Pitch‑Lag Coupling</title>
       <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/preprint/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs. --&gt;
 &lt;!-- 
@@ -332,7 +324,7 @@
 
 
 
-&lt;div id=&#34;chart-286759413&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-468519732&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -350,7 +342,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-286759413&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-468519732&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -989,6 +981,22 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/ul&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Design And Development Of Swashplateless Micro Helicopter.</title>
+      <link>http://localhost:1313/project/portfolio/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine‑Grained Porous Media Convection - Device Communication Using LabVIEW</title>
+      <link>http://localhost:1313/project/eeg/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/eeg/</guid>
+      <description></description>
     </item>
     
   </channel>

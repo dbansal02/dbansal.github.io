@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Dwija Kakkad
+title: Divyanshi Bansal
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Dwija
-last_name: Kakkad
+first_name: Divyanshi
+last_name: Bansal
 
 # Status emoji
 status:
@@ -31,18 +31,18 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:dwijamk21@iitk.ac.in'
+    url: 'mailto:divyanshib21@iitk.ac.in'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/dwija04
+    url: https://github.com/dbansal02
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/dwijakakkad/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&user=B2j-EN0AAAAJ
+    url: https://www.linkedin.com/in/divyanshi-bansal20/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?hl=en&user=B2j-EN0AAAAJ
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
@@ -70,20 +70,35 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BS Mathematics and Scientific Computing
+  - area: B.Tech - Aerospace Engineering; Minors in  Controls, Electrical Engineering
     institution: Indian Institute of Technology, Kanpur
     date_start: 2021-12-03
-    date_end: 2025-05-04
+    date_end: 2025-06-04
     summary: |
 work:
-  - position: Summer Associate
-    company_name: Finmechanics India
-    company_url: https://www.finmechanics.com/
-    company_logo: ''
+  - position: Summer Research Scholar - SURI’24
+    company_name: Arizona State University
+    company_url: https://www.asu.edu/
+    company_logo: 'div3.jpeg'
     date_start: 2024-05-20
     date_end: 2024-07-12
-    summary: |2-
-      
+    summary: |
+      Suction/Blowing Control System To Impose Complex Pressure Gradients In A Wind Tunnel:
+      - This project aims to design and characterize an experimental system that can impose arbitrary pressure gradients within a wind tunnel using an array of fans to create spatio-temporally varying flow fields.
+
+  - position: Student Research Associate 
+    company_name: Indian Institute Of Technology Kanpur
+    company_url: https://www.iitk.ac.in/
+    company_logo: ''
+    date_start: 2023-05-20
+    date_end: 2023-07-12
+    summary: | 
+      Fine Grained Porous Media Convection, Device Communication Using LabVIEW:
+      - This project involved maintaining the temperature of a surface at a set point by regulating the input to a set of independent heaters using programmable power supplies automatically with the aid of a LabVIEW VI.
+
+
+
+  
 
   # - position: Backend Software Engineer
   #   company_name: X
@@ -129,7 +144,7 @@ awards:
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
-  #   awarder: edX
+  #   awarder: ed
   #   icon: edx
   #   summary: |
   #     Learned:
@@ -147,4 +162,6 @@ awards:
 ---
 # About me
 
-I am a senior undergraduate majoring in Mathematics and Scientific Computing at the Indian Institute of Technology, Kanpur. My research interests lie in statistics, and I am currently exploring various fields of statistics methodology. I worked on exact Markov Chain Monte Carlo sampling using Bernoulli factories with Prof. [Dootika Vats ](https://dvats.github.io/). Prior to that I worked at the [Decision lab](https://sites.google.com/view/decisionlabiitk/home?authuser=0) on modelling behavioural data to analyze the effect of stress on dynamic decision making. 
+I am an enthusiastic aerospace engineering student with a passion for exploring diverse fields and continuously expanding my knowledge. My research interests lie in Unmanned Aerial Vehicles, VTOL configurations, Control and Optimization, and Machine Learning Applications. I am constantly looking for opportunities to learn and grow in this dynamic field !
+
+<!-- I am a senior undergraduate majoring in Mathematics and Scientific Computing at the Indian Institute of Technology, Kanpur. My research interests lie in statistics, and I am currently exploring various fields of statistics methodology. I worked on exact Markov Chain Monte Carlo sampling using Bernoulli factories with Prof. [Dootika Vats ](https://dvats.github.io/). Prior to that I worked at the [Decision lab](https://sites.google.com/view/decisionlabiitk/home?authuser=0) on modelling behavioural data to analyze the effect of stress on dynamic decision making.  -->

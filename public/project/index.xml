@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Dwija Kakkad</title>
+    <title>Projects | Divyanshi Bansal</title>
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu11592851331957776021.png</url>
       <title>Projects</title>
@@ -13,27 +13,35 @@
     </image>
     
     <item>
-      <title>Effect of acute stress on dynamic decision making</title>
-      <link>http://localhost:1313/project/eeg/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/eeg/</guid>
-      <description>&lt;p&gt;Modelling stress and valence ratings in players in a Penalty Shot game.&lt;/p&gt;</description>
+      <title>Non‑overshooting PID Controller Design For Attitude Control of Spacecraf</title>
+      <link>http://localhost:1313/project/project4/</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/project4/</guid>
+      <description>&lt;p&gt;Course Group Project&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Multiple Try Metropolis with Bernoulli factories</title>
+      <title>Suction/Blowing Control System To Impose Complex Pressure Gradients In A Wind Tunnel</title>
       <link>http://localhost:1313/project/mtm/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/mtm/</guid>
-      <description>&lt;p&gt;Multiple Try Metropolis MCMC using Bernoulli factories for intractable posteriors.&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Portfolio Optimization and Risk Analysis</title>
+      <title>Design And Development Of Swashplateless Micro Helicopter.</title>
       <link>http://localhost:1313/project/portfolio/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/portfolio/</guid>
-      <description>&lt;p&gt;Portfolio optimization using the Markowitz efficient frontier and CPPI, and a risk module calculating VaR and CVaR.&lt;/p&gt;</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine‑Grained Porous Media Convection - Device Communication Using LabVIEW</title>
+      <link>http://localhost:1313/project/eeg/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/eeg/</guid>
+      <description></description>
     </item>
     
   </channel>
