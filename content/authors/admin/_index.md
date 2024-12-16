@@ -162,6 +162,6 @@ awards:
 ---
 # About me
 
-I am an enthusiastic aerospace engineering student with a passion for exploring diverse fields and continuously expanding my knowledge. My research interests lie in Unmanned Aerial Vehicles, VTOL configurations, Control and Optimization, and Machine Learning Applications. I am constantly looking for opportunities to learn and grow in this dynamic field !
+I am an enthusiastic aerospace engineering student with a passion for exploring diverse fields and continuously expanding my knowledge. My research interests lie in Unmanned Aerial Vehicles, VTOL configurations, Control and Optimization, and Machine Learning Applications. I am constantly looking for opportunities to learn and grow in these dynamic fields!
 
 <!-- I am a senior undergraduate majoring in Mathematics and Scientific Computing at the Indian Institute of Technology, Kanpur. My research interests lie in statistics, and I am currently exploring various fields of statistics methodology. I worked on exact Markov Chain Monte Carlo sampling using Bernoulli factories with Prof. [Dootika Vats ](https://dvats.github.io/). Prior to that I worked at the [Decision lab](https://sites.google.com/view/decisionlabiitk/home?authuser=0) on modelling behavioural data to analyze the effect of stress on dynamic decision making.  -->
